@@ -21,7 +21,7 @@ print("What is 5 - 7?", 5 - 7)
 print("Oh, that's why it's False.")
 
 print("How about some more.")
-#test
+
 print("Is it greater?", 5 > -2)
 print("Is it greater or equal?", 5 >= -2)
 print("Is it less or equal?", 5 <= -2)
