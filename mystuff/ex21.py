@@ -38,4 +38,4 @@ sprite = add(1000, 500)
 jus_orange = multiply(26, 78)
 jus_raisin = divide(70, 30)
 
-boisson = multiply(coca, add(sprite, divide(jus_orange,)))
+boisson = multiply(coca, add(sprite, divide(jus_orange,subtract(jus_raisin, 5))))
